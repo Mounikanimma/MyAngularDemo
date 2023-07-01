@@ -16,7 +16,7 @@ export class AppComponent {
 
   
   constructor(){ } 
-  name="mounika"
+  Imagepath:string ="D:\213\DSC_0183.JPG"
  
  
 }
